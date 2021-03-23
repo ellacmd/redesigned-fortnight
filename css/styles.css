@@ -1,0 +1,13 @@
+body{
+    background-color: #f72585;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    background-color: #f72585;
+    padding: 10px 20px;
+    border:none;
+    box-shadow: 0.3px 0.3px 3px 3px grey;
+    color: white;
+}
